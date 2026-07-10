@@ -1,0 +1,4 @@
+telethon>=1.36
+aiohttp>=3.9
+requests>=2.31
+python-dotenv>=1.0

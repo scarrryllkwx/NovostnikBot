@@ -1,4 +1,2 @@
-telethon>=1.36
-aiohttp>=3.9
-requests>=2.31
-python-dotenv>=1.0
+requests>=2.31,<3
+truststore>=0.9   # проверка TLS через системное хранилище ОС (для Russian Trusted CA)
